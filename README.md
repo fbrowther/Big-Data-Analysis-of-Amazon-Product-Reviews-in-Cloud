@@ -8,16 +8,14 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 Dataset: 
 (1) Datasets chosen for the project include -
+
         (a) Camera - containing 1801849 unique records
+        
         (b) Mobile phones - containing 104972 unique records
-(2) analysed for this project were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)) and include 
-(1) Camera
-(2) Mobile phones
-
-to dataset on two product categories will be 
+        
+(2) These big datasets were were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)) 
 
 
-For this part of the project, amazon's review dataset o 
 
 
 
