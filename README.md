@@ -73,24 +73,42 @@ Conditions set for this analysis include -
         (4) Purchase was verified or not.
 
 ## Camera
-464 Vine reviewers met the conditions set for this analysis. As one would expect, almost all of them (N=459) had no verified purchase.
-However, on the other hand, unpaid customers (N= 36999) had an interesting split. 52% had no verifed purchase while the remaining 48% had verfied purchase. This was quite interesting to note as overwhelming majority of 'supposedly unpaid' customers with no verfied purchase history gave 5 star ratings for this category of products. The trustworthiness of reviews given to this category by 'supposedly unpaid' customers is therefore doubtful.
+
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/Vine_N_Verified_N.jpg)
+
+    (1) 464 Vine reviewers met the conditions set for this analysis. As one would expect, almost all of them (N=459) had no verified purchase.
+
+    (2) On the other hand, unpaid customers (N= 36999) had an interesting split. 52% had no verifed purchase while the remaining 48% had verfied purchase.
+    
+    (3) This was quite interesting to note as overwhelming majority of 'supposedly unpaid' customers with no verfied purchase history gave 5 star 
+        ratings for this category of products. 
+    
+    (4) The trustworthiness of reviews given to this category by 'supposedly unpaid' customers is therefore doubtful.
 
 ([camera analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Camera))
 
 ## Mobile 
-3 Vine reviewers met the conditions set for this analysis in this category and all 3 had no verfied history of purchase. In the non-Vine customer group (N=743), 37% had no verified purchase while the remaining 63% had. Seems like seen before, mobile phone category purchases are not heavily influenced by the forceful campaigning as the camera category.
+
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/Vine_N_Verified_N.jpg)
+
+    (1) 3 Vine reviewers met the conditions set for this analysis in this category and all 3 had no verfied history of purchase. 
+    
+    (2) In the non-Vine customer group (N=743), 37% had no verified purchase while the remaining 63% had. 
+    
+    (3) Seems like as seen before, mobile phone category purchases are not heavily influenced by the underlying forceful campaigning 
+        as the camera category gets.
 
 ([Mobile analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Mobile))
 
 
-## Submit a summary of your findings and analysis.
+## Summary of findings and analysis.
 
-Amazon reviews obtained as a part of Vine seem to be doing okay. However, vast majority of 5 star reviews were given by 52% and 37% by 'supposedly unpaid' customers with no verfied purchase history
-
-
-
-
-
-
+    (1) Amazon reviews obtained as a part of Vine Program seem to be doing okay. However, vast majority of 5 star reviews were given 
+        by 'supposedly unpaid' customers with no verfied purchase history in both categories analysed. 
+    
+    (2) Amazon needs to keep an eye on these reviews that appear inspite of no prior history of purchases. These reviews might be due to informal 
+    review schemes going on that are heavily influencing the purchasing trend of the cuatomers.
+    
+    (3) Each category of products has its own trend. Therefore, keeping an eye on them individually might be necessary.
+    
 
