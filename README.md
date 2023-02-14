@@ -17,8 +17,6 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ## Cloud ETL (Level1): 
 
-(([RDS Instance on AWS ](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AWS%20-%20RDS%20Instance.jpg))
-
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
         (2) The transformed dataframes for both datasets were upload as four tables onto RDS
@@ -26,6 +24,9 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
                 (b) products (Screenshots in L1 folder)
                 (c) customers (Screenshots in L1 folder)
                 (d) vine_table (Screenshots in L1 folder)
+                
+ 
+([RDS Instance on AWS ](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AWS%20-%20RDS%20Instance.jpg))
 
 ## Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
