@@ -18,7 +18,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
-        (2) The transformed dataframes were upload as four tables 
+        (2) The transformed dataframes for both datasets were upload as four tables onto RDS
                 (a) review_id_table (shown below)
                 (b) products (Screenshots in L1 folder)
                 (c) customers (Screenshots in L1 folder)
