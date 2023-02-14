@@ -44,15 +44,14 @@ However, in this part of the project, trustworthiness of these Vine reviews will
 
 The demand for mobile phones and camera are ever increasing. These two datasets would give us much clear indication of the real demand for these products in assessing the Vine program and help us prevent any bias introduced by forceful campaign to promote these categories of products. 
 
-## Camera
+## Camera - 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category.
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
 
-### 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category.
 
-## Mobile 
+## Mobile - 49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category.
+
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
-### Again 49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category.
 
 
 ## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL)
