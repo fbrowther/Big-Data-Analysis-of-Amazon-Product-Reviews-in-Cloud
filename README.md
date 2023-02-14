@@ -4,10 +4,10 @@
 
 Brief Introduction: 
 
-Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available ([Link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)). These datasets are quite large to be handled by local machines. Therefore the entire analysis on the product reviews will be completed on AWS cloud employing S3 Bucket (to store the dataset) and RDS (Relational Database System). 
+Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available ([Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)). These datasets are quite large to be handled by local machines. Therefore the entire analysis on the product reviews will be completed on AWS cloud employing S3 Bucket (to store the dataset) and RDS (Relational Database System). 
 
 Dataset: 
-Two dataset that were analysed for this project were uploaded onto the S3 Bucket [Link](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)
+Two dataset that were analysed for this project were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 to dataset on two product categories will be 
 
