@@ -112,8 +112,8 @@ Conditions set for this analysis include -
     (1) Amazon reviews obtained as a part of Vine Program seem to be doing okay. However, vast majority of 5 star reviews were given 
         by 'supposedly unpaid' customers with no verfied purchase history in both categories analysed. 
     
-    (2) Amazon needs to keep an eye on these reviews that appear inspite of no prior history of purchases. These reviews might be due to informal 
-    review schemes going on that are heavily influencing the purchasing trend of the cuatomers.
+    (2) Amazon needs to keep an eye on these reviews that appear inspite of no prior history of purchases. 
+        These reviews might be due to informal review schemes going on that are heavily influencing the purchasing trend of the cuatomers.
     
     (3) Each category of products has its own trend. Therefore, keeping an eye on them individually might be necessary.
     
