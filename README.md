@@ -19,21 +19,19 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
         (2) The transformed dataframes were upload as four tables 
-                (a) review_id_table
-                (b) products 
-                (c) customers
-                (d) vine_table
+                (a) review_id_table (shown below)
+                (b) products (Screenshots in L1 folder)
+                (c) customers Screenshots in L1 folder
+                (d) vine_table Screenshots in L1 folder
 
-### Camera
+## Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
 
 
-### Mobile 
+## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
 
 
-![table]()
-![table]()
 
 They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
 
