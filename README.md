@@ -49,6 +49,8 @@ The demand for mobile phones and camera are ever increasing. These two datasets 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
 
 
+## 42% of Vine (paid) and 49% of regular customers gave 5 STARS rating to this category of products
+
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
