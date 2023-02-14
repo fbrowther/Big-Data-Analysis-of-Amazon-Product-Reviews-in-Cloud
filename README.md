@@ -29,7 +29,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
 
 
-42% of the Vine (paid) customers gave reviews of 5 stars
+### 42% of the Vine (paid) customers gave reviews of 5 stars while 49% of the unpaid customers gave 5 stars for this category
 
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
