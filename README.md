@@ -1,6 +1,6 @@
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
 
-# Amazon_Product_Reviews_Analysis_on_Cloud
+# Big Data Analysis of Amazon Product Reviews on Cloud
 
 ## Brief Introduction: 
 
