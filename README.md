@@ -35,7 +35,6 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 
 
-
 ## Analysis of Amazon Vine Reviews using PySpark (Level2)
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has developed several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8. 
@@ -46,9 +45,10 @@ The demand for mobile phones and camera are ever increasing. These two datasets 
 
 Conditions for this analysis include -
 
-(1) Paid or unpaid (Vine = Y or N)
-(2) Review count should be equal or greater than 20
-(3) 
+        (1) Paid or unpaid (Vine = Y or N)
+        (2) Review count >= 20
+        (3) (helpful_votes/total_votes) >= 50%
+        (4) Star Rating == 5
 
 ## Camera
 
