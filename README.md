@@ -17,12 +17,23 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ## Cloud ETL:
 
-The dataset were extracted from ([S3]              (https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)), cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
+        (1) The dataset were extracted from ([S3]              (https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)), cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
+        
+        (2) The transformed dataframes were upload as four tables 
+                (a) review_id_table
+                (b) products 
+                (c) customers
+                (d) vine_table
 
-![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)    
-![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
-![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
-![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
+### Camera
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
+
+### Mobile 
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
+
+
+![table]()
+![table]()
 
 They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
 
