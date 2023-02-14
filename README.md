@@ -47,12 +47,12 @@ The demand for mobile phones and camera are ever increasing. These two datasets 
 ## Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
 
-### 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category of products
+### 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category.
 
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
-### 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category of products
+### Again 49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category.
 
 
 ## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL)
