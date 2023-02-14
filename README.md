@@ -9,15 +9,20 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ## Dataset: 
         (1) Datasets chosen for the project include -
 
-        (a) Camera - containing 1801849 unique records
+                (a) Camera - containing 1801849 unique records
         
-        (b) Mobile phones - containing 104972 unique records
+                (b) Mobile phones - containing 104972 unique records
         
-        (2) These big datasets were were uploaded onto the S3 Bucket ([S3]              (https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)) 
+        (2) These big datasets were were uploaded onto the S3 Bucket
 
+## Cloud ETL:
 
+The dataset were extracted from ([S3]              (https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)), cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
 
-
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)    
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/AmazonVine.jpeg)
 
 They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
 
