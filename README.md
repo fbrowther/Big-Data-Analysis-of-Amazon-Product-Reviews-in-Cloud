@@ -11,7 +11,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
     (a) Camera - containing 1801849 unique records
     (b) Mobile phones - containing 104972 unique records  
-    
+
 (2) These big datasets were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 
@@ -32,49 +32,31 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
 
-## Analysis of Amazon Vine Reviews 
 
-In Amazon's Vine program, reviewers receive free products in exchange for reviews.
+## Analysis of Amazon Vine Reviews using PySpark
 
+In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has developed several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8. However, in this part of the project, trustworthiness of these Vine reviews will be investigated and whether these reviews are free of bias will be determined. 
 
-
-Amazon has several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8.
-But are Vine reviews truly trustworthy? Your task is to investigate whether Vine reviews are free of bias. Use either PySpark or, for an extra challenge, SQL to analyze the data.
+Since the demand for mobile phones and camera are ever increasing, these two datasets would give us a clear indication of the real demand for these products in assessing the Vine program and help us prevent any bias introduced by forceful campaign to promote these categories of products. 
 
 
-If you choose SQL, first use Spark on Colab to extract and transform the data and then load it into a SQL table on your RDS account. Perform your analysis with SQL queries on RDS.
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
 
 
-While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a certain number of helpful votes, total votes, or both.
+![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
 
-Submit a summary of your findings and analysis.
+## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL)
 
 
 
-
-## Using PySpark
-
-## Using BigQuery (RDS, SQL)
-
-
-They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
-
-The second goal will be to use PySpark or SQL to perform a statistical analysis of selected data.
-This homework assignment contains two levels. The second level is optional but highly recommended.
-
-
-Create DataFrames to match production-ready tables from two big Amazon customer review datasets.
-
-
-Analyze whether reviews from Amazon's Vine program are trustworthy.
+## Submit a summary of your findings and analysis.
 
 
 
 
 
-Big data on amazon reviews 
 
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
-containing 1.5 million reviews on Amazon Products will be analysed on AWS cloud.
+
+
 
