@@ -2,7 +2,11 @@
 
 # Amazon_Product_Reviews_Analysis_on_Cloud
 
-Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available [Link text Here]([https://link-url-here.org](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). For this part of the project, amazon's review dataset o 
+Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available 
+
+[Link text Here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+
+. For this part of the project, amazon's review dataset o 
 
 
 
