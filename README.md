@@ -12,7 +12,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
     (a) Camera - containing 1801849 unique records
     (b) Mobile phones - containing 104972 unique records  
     
-(2) These big datasets were were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
+(2) These big datasets were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 ## Cloud ETL:
 
@@ -26,6 +26,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ### Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
+
 
 ### Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
