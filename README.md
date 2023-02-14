@@ -17,7 +17,8 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ## Cloud ETL:
 
-        (1) The dataset were extracted from ([S3]              (https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)), cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
+        (1) The dataset were extracted from 
+        ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg)), cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
         (2) The transformed dataframes were upload as four tables 
                 (a) review_id_table
