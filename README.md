@@ -72,6 +72,7 @@ Conditions for this analysis include -
 ## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL) - (Level2)
 
 Conditions set for this analysis include -
+
         (1) Paid or unpaid (Vine = Y or N)
         (2) Review count >= 20
         (3) Star Rating >= 4
