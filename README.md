@@ -15,9 +15,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 (2) These big datasets were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 
-## Level1
-
-## Cloud ETL:
+## Cloud ETL (L1):
 
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
@@ -34,9 +32,30 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
 
-## Level2
+## Analysis of Amazon Vine Reviews 
 
-## Analysis of Amazon Vine Reviews using 
+In Amazon's Vine program, reviewers receive free products in exchange for reviews.
+
+
+
+Amazon has several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8.
+But are Vine reviews truly trustworthy? Your task is to investigate whether Vine reviews are free of bias. Use either PySpark or, for an extra challenge, SQL to analyze the data.
+
+
+If you choose SQL, first use Spark on Colab to extract and transform the data and then load it into a SQL table on your RDS account. Perform your analysis with SQL queries on RDS.
+
+
+While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a certain number of helpful votes, total votes, or both.
+
+
+Submit a summary of your findings and analysis.
+
+
+
+
+## Using PySpark
+
+## Using BigQuery (RDS, SQL)
 
 
 They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal for this assignment will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. 
