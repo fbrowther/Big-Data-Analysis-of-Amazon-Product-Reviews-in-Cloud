@@ -15,7 +15,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 (2) These big datasets were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 
-## Cloud ETL (L1):
+## Cloud ETL (Level1):
 
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
@@ -36,7 +36,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 
 
-## Analysis of Amazon Vine Reviews using PySpark
+## Analysis of Amazon Vine Reviews using PySpark (Level2)
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has developed several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8. 
 
@@ -44,20 +44,22 @@ However, in this part of the project, trustworthiness of these Vine reviews will
 
 The demand for mobile phones and camera are ever increasing. These two datasets would give us much clear indication of the real demand for these products in assessing the Vine program and help us prevent any bias introduced by forceful campaign to promote these categories of products. 
 
-## Camera - 
+## Camera
+
 ### 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to this category
 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
 
 
-## Mobile - 
+## Mobile 
+
 ### 49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category
 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
 
 
-## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL)
+## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL) - (Level2)
 
 
 
