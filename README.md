@@ -21,8 +21,8 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
         (2) The transformed dataframes were upload as four tables 
                 (a) review_id_table (shown below)
                 (b) products (Screenshots in L1 folder)
-                (c) customers Screenshots in L1 folder
-                (d) vine_table Screenshots in L1 folder
+                (c) customers (Screenshots in L1 folder)
+                (d) vine_table (Screenshots in L1 folder)
 
 ## Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
