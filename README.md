@@ -38,7 +38,7 @@ Other SQL tables can be found at
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
 
 Other SQL tables can be found at 
-([Other SQL tables](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_in_Cloud/tree/main/Level%201/Camera_Postgres_data_table_Images))
+([Other SQL tables](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_in_Cloud/tree/main/Level%201/Mobile_Postgres_data_table_images))
 
 ## Analysis of Amazon Vine Reviews using PySpark (Level2)
 
