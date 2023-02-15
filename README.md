@@ -76,7 +76,7 @@ Conditions set for this analysis include -
         (1) Paid or unpaid (Vine = Y or N)
         (2) Review count >= 20
         (3) Star Rating >= 4
-        (4) Purchase was verified or not.
+        (4) Purchase verified (Yes or No).
 
 ## Camera
 
