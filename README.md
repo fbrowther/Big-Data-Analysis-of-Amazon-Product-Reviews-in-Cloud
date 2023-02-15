@@ -31,12 +31,14 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ## Camera
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Camera_Postgres_data_table_Images/Review_id_Table_Camera.png)    
 
-
+Other SQL tables can be found at 
+([Other SQL tables](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_in_Cloud/tree/main/Level%201/Camera_Postgres_data_table_Images))
 
 ## Mobile 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%201/Mobile_Postgres_data_table_images/Review_id_Table_Mobile.png)
 
-
+Other SQL tables can be found at 
+([Other SQL tables](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_in_Cloud/tree/main/Level%201/Camera_Postgres_data_table_Images))
 
 ## Analysis of Amazon Vine Reviews using PySpark (Level2)
 
