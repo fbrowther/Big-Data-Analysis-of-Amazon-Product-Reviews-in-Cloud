@@ -46,7 +46,7 @@ In Amazon's Vine program, reviewers receive free products in exchange for review
 
 However, in this part of the project, trustworthiness of these Vine reviews will be investigated and whether these reviews are free of bias will be determined. 
 
-The demand for mobile phones and camera are ever increasing. These two datasets would give us much clear indication of the real demand for these products in assessing the Vine program and help us detect any bias introduced by paid campaigns to promote these categories of products. 
+The demand for mobile phones and camera are ever increasing. These two datasets would give us clear indication of the real demand for these products in assessing the Vine program and help us detect any bias introduced by paid campaigns to promote these categories of products. 
 
 Conditions for this analysis include -
 
