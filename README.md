@@ -15,7 +15,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 (2) These big datasets were uploaded onto the S3 Bucket ([S3](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Images%20for%20ReadMe/S3%20Bucket.jpg))
 
 
-## Cloud ETL (Level1): 
+## (I) Cloud ETL (Level1): 
 
         (1) The dataset were extracted from S3, cleaned, transformed and uploaded onto AWS RDS using a SparkSession (Pyspark). 
         
@@ -40,7 +40,7 @@ Remaining SQL tables can be found at
 Remaining SQL tables can be found at 
 ([Other Mobile SQL tables](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_in_Cloud/tree/main/Level%201/Mobile_Postgres_data_table_images))
 
-## Analysis of Amazon Vine Reviews using PySpark (Level2)
+## (II) Analysis of Amazon Vine Reviews using PySpark (Level2)
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has developed several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8. 
 
@@ -71,7 +71,7 @@ Conditions for this analysis include -
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
 
-## Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL) - (Level2)
+## (III) Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL) - (Level2)
 
 Conditions set for this analysis include -
 
