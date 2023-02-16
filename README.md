@@ -105,7 +105,7 @@ Conditions set for this analysis include -
     
     (2) In the non-Vine customer group (N=743), 37% had no verified purchase while the remaining 63% did. 
     
-    (3) As seen before, mobile phone category purchases are also influenced by some sort of the underlying paid schemes as 'Camera' did.
+    (3) As seen before, mobile phone category purchases are also influenced by some sort of the underlying paid schemes as noted in 'Camera' category.
 
 ([Mobile analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Mobile))
 
