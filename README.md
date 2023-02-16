@@ -66,7 +66,7 @@ Conditions for this analysis include -
 ## Mobile 
 
 ### Main findings: 
-49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category. Mobile category was not found to be popularly promoted by Vine Reviews as only 4 met the above conditions in the Vine group.  
+49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category. Mobile category was not found to be popularly promoted by Vine Reviews as only 4 met the above conditions in the Vine group for mobile.  
 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
