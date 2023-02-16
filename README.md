@@ -92,8 +92,8 @@ Conditions set for this analysis include -
     (3) This was quite interesting to note as overwhelming majority of 'supposedly unpaid' customers with no verfied purchase history gave 5 star 
         ratings for this category of products. 
     
-    (4) The reviews given to this category by 'supposedly unpaid' vine customers is therefore doubtful. These customers are not part of the vine program
-        however they might be a part of a vendor run paid schemes in its internal workings. 
+    (4) The reviews given to this category by (Vine - No + Verified_purchase - No) customers is therefore doubtful. 
+        These customers are not part of the vine program however they might be a part of a vendor run paid schemes in its internal workings. 
 
 ([camera analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Camera))
 
