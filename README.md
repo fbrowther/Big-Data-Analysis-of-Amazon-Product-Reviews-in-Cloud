@@ -57,7 +57,7 @@ Conditions for this analysis include -
 
 ## Camera
  
-### Main finding: 
+### Main findings: 
 42% of Vine (paid) and 49% of regular (unpaid) customers gave 5 STARS rating to Camera
 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Camera/comparison_vine%26_normal%20_customers_Camera.jpg)
@@ -65,7 +65,7 @@ Conditions for this analysis include -
 
 ## Mobile 
 
-### Main finding: 
+### Main findings: 
 49% of regular (unpaid) customers gave 5 STARS rating to this category. However, just 1 vine reviewer gave 5 STARS rating to this category. Mobile category was not found to be popularly promoted by Vine Reviews as only 4 met the above conditions in the Vine group.  
 
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
