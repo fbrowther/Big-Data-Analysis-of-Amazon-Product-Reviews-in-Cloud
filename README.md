@@ -103,7 +103,7 @@ Conditions set for this analysis include -
 
     (1) 3 Vine reviewers met the conditions set for this analysis in this category and all 3 had no verfied history of purchase. 
     
-    (2) In the non-Vine customer group (N=743), 37% had no verified purchase while the remaining 63% had. 
+    (2) In the non-Vine customer group (N=743), 37% had no verified purchase while the remaining 63% did. 
     
     (3) As seen before, mobile phone category purchases are also influenced by some sort of the underlying paid schemes as 'Camera' did.
 
