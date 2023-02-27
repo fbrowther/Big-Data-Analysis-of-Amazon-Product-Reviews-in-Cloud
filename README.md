@@ -95,7 +95,7 @@ Conditions set for this analysis include -
     (4) The reviews given to this category by (Vine - No + Verified_purchase - No) customers is therefore doubtful. 
         These customers are not part of the vine program however they might be a part of a vendor run paid schemes in its internal workings. 
 
-([camera analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Camera))
+([camera analyses screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Camera))
 
 ## Mobile 
 
@@ -107,7 +107,7 @@ Conditions set for this analysis include -
     
     (3) As seen before, mobile phone category purchases are also influenced by some sort of the underlying paid schemes as noted in 'Camera' category.
 
-([Mobile analysis screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Mobile))
+([Mobile analyses screenshots](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/tree/main/Level%202/Mobile))
 
 
 ## Summary of findings and analysis.
