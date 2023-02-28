@@ -71,7 +71,7 @@ Conditions for this analysis include -
 ![table](https://github.com/fbrowther/Amazon_Product_Reviews_Analysis_on_Cloud/blob/main/Level%202/Mobile/comparison_vine%26_normal%20_customers_Mobile.jpg)
 
 
-## (III) Analysis of Amazon Vine Reviews using BigQuery (RDS, SQL) - (Level2)
+## (III) Analysis of Amazon Vine Reviews using AWS RDS & PostgreSQL - (Level2)
 
 Conditions set for this analysis include -
 
